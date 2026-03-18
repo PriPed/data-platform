@@ -1,10 +1,137 @@
 [
     {
-        "name": "Amit",
-        "age": 28
+        "id": "1",
+        "name": "John Doe",
+        "email": "john.doe@gmail.com",
+        "age": "28",
+        "city": "Mumbai",
+        "signup_date": "2023-01-15",
+        "is_active": "True"
     },
     {
-        "name": "Priya",
-        "age": 25
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane.smith@yahoo.com",
+        "age": "34",
+        "city": "Pune",
+        "signup_date": "2022-11-03",
+        "is_active": "True"
+    },
+    {
+        "id": "3",
+        "name": "Ali Khan",
+        "email": "ali.khan@hotmail.com",
+        "age": "22",
+        "city": "Delhi",
+        "signup_date": "2023-06-20",
+        "is_active": "False"
+    },
+    {
+        "id": "4",
+        "name": "Priya Sharma",
+        "email": "priya.sharma@gmail.com",
+        "age": "29",
+        "city": "Bangalore",
+        "signup_date": "2023-02-10",
+        "is_active": "True"
+    },
+    {
+        "id": "5",
+        "name": "Rahul Verma",
+        "email": "rahul.verma@outlook.com",
+        "age": "31",
+        "city": "Hyderabad",
+        "signup_date": "2021-09-25",
+        "is_active": "False"
+    },
+    {
+        "id": "6",
+        "name": "Neha Patil",
+        "email": "neha.patil@gmail.com",
+        "age": "27",
+        "city": "Mumbai",
+        "signup_date": "2023-07-01",
+        "is_active": "True"
+    },
+    {
+        "id": "7",
+        "name": "Amit Joshi",
+        "email": "amit.joshi@yahoo.com",
+        "age": "45",
+        "city": "Pune",
+        "signup_date": "2020-12-11",
+        "is_active": "False"
+    },
+    {
+        "id": "8",
+        "name": "Sara Khan",
+        "email": "sara.khan@gmail.com",
+        "age": "26",
+        "city": "Delhi",
+        "signup_date": "2023-05-18",
+        "is_active": "True"
+    },
+    {
+        "id": "9",
+        "name": "Vikram Singh",
+        "email": "",
+        "age": "38",
+        "city": "Jaipur",
+        "signup_date": "2022-08-09",
+        "is_active": "True"
+    },
+    {
+        "id": "10",
+        "name": "Anjali Mehta",
+        "email": "anjali.mehta@gmail.com",
+        "age": "",
+        "city": "Ahmedabad",
+        "signup_date": "2023-03-22",
+        "is_active": "True"
+    },
+    {
+        "id": "11",
+        "name": "Karan Malhotra",
+        "email": "karan.malhotra@gmail.com",
+        "age": "33",
+        "city": "",
+        "signup_date": "2021-04-30",
+        "is_active": "False"
+    },
+    {
+        "id": "12",
+        "name": "Meera Iyer",
+        "email": "meera.iyer@gmail.com",
+        "age": "24",
+        "city": "Chennai",
+        "signup_date": "2023-09-14",
+        "is_active": "True"
+    },
+    {
+        "id": "13",
+        "name": "Arjun Reddy",
+        "email": "arjun.reddy@gmail",
+        "age": "30",
+        "city": "Hyderabad",
+        "signup_date": "2022-02-17",
+        "is_active": "True"
+    },
+    {
+        "id": "14",
+        "name": "Pooja Gupta",
+        "email": "pooja.gupta@yahoo.com",
+        "age": "29",
+        "city": "Delhi",
+        "signup_date": "invalid_date",
+        "is_active": "False"
+    },
+    {
+        "id": "15",
+        "name": "David Lee",
+        "email": "david.lee@gmail.com",
+        "age": "41",
+        "city": "Bangalore",
+        "signup_date": "2020-06-05",
+        "is_active": "True"
     }
 ]
